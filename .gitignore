@@ -42,3 +42,4 @@ build/
 
 ### Compiled Java files ###
 *.class
+.Rhistory
